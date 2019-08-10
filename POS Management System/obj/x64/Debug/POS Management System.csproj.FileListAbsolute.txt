@@ -1,0 +1,30 @@
+C:\Users\Fatima\Desktop\POS Management System- Copy5\POS Management System\bin\x64\Debug\POS Management System.exe.config
+C:\Users\Fatima\Desktop\POS Management System- Copy5\POS Management System\bin\x64\Debug\smsystem.accdb
+C:\Users\Fatima\Desktop\POS Management System- Copy5\POS Management System\bin\x64\Debug\POS Management System.exe
+C:\Users\Fatima\Desktop\POS Management System- Copy5\POS Management System\bin\x64\Debug\POS Management System.pdb
+C:\Users\Fatima\Desktop\POS Management System- Copy5\POS Management System\bin\x64\Debug\MetroFramework.Design.dll
+C:\Users\Fatima\Desktop\POS Management System- Copy5\POS Management System\bin\x64\Debug\MetroFramework.dll
+C:\Users\Fatima\Desktop\POS Management System- Copy5\POS Management System\bin\x64\Debug\MetroFramework.Fonts.dll
+C:\Users\Fatima\Desktop\POS Management System- Copy5\POS Management System\obj\x64\Debug\POS_Management_System.Form1_POS.resources
+C:\Users\Fatima\Desktop\POS Management System- Copy5\POS Management System\obj\x64\Debug\POS_Management_System.Form2.resources
+C:\Users\Fatima\Desktop\POS Management System- Copy5\POS Management System\obj\x64\Debug\POS_Management_System.Properties.Resources.resources
+C:\Users\Fatima\Desktop\POS Management System- Copy5\POS Management System\obj\x64\Debug\POS Management System.csproj.GenerateResource.Cache
+C:\Users\Fatima\Desktop\POS Management System- Copy5\POS Management System\obj\x64\Debug\POS Management System.exe
+C:\Users\Fatima\Desktop\POS Management System- Copy5\POS Management System\obj\x64\Debug\POS Management System.pdb
+C:\Users\Fatima\Desktop\POS Management System- Copy5\POS Management System\obj\x64\Debug\POS Management System.csprojResolveAssemblyReference.cache
+C:\Users\Fatima\Desktop\POS Management System- Copy5\POS Management System\obj\x64\Debug\POS_Management_System.Form3.resources
+C:\Users\Fatima\Desktop\Fatima and Areesha\POS Management System\bin\x64\Debug\POS Management System.exe.config
+C:\Users\Fatima\Desktop\Fatima and Areesha\POS Management System\obj\x64\Debug\POS Management System.exe
+C:\Users\Fatima\Desktop\Fatima and Areesha\POS Management System\obj\x64\Debug\POS Management System.pdb
+C:\Users\Fatima\Desktop\Fatima and Areesha\POS Management System\bin\x64\Debug\smsystem.accdb
+C:\Users\Fatima\Desktop\Fatima and Areesha\POS Management System\bin\x64\Debug\POS Management System.exe
+C:\Users\Fatima\Desktop\Fatima and Areesha\POS Management System\bin\x64\Debug\POS Management System.pdb
+C:\Users\Fatima\Desktop\Fatima and Areesha\POS Management System\bin\x64\Debug\MetroFramework.Design.dll
+C:\Users\Fatima\Desktop\Fatima and Areesha\POS Management System\bin\x64\Debug\MetroFramework.dll
+C:\Users\Fatima\Desktop\Fatima and Areesha\POS Management System\bin\x64\Debug\MetroFramework.Fonts.dll
+C:\Users\Fatima\Desktop\Fatima and Areesha\POS Management System\obj\x64\Debug\POS Management System.csprojResolveAssemblyReference.cache
+C:\Users\Fatima\Desktop\Fatima and Areesha\POS Management System\obj\x64\Debug\POS_Management_System.Form1_POS.resources
+C:\Users\Fatima\Desktop\Fatima and Areesha\POS Management System\obj\x64\Debug\POS_Management_System.Form2.resources
+C:\Users\Fatima\Desktop\Fatima and Areesha\POS Management System\obj\x64\Debug\POS_Management_System.Form3.resources
+C:\Users\Fatima\Desktop\Fatima and Areesha\POS Management System\obj\x64\Debug\POS_Management_System.Properties.Resources.resources
+C:\Users\Fatima\Desktop\Fatima and Areesha\POS Management System\obj\x64\Debug\POS Management System.csproj.GenerateResource.Cache
